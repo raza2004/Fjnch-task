@@ -1,0 +1,8 @@
+- use of style + tailwind classes
+- countries are shown as suggestions instead of a picker element
+- dark/light mode only affects background
+- Some unused pages are in there, explore.tsx?
+- purpose of +html.tsx?
+- Navigation although not necessary
+- SettingsScreen?
+- doesn't pass our evaluation
